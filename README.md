@@ -1,24 +1,35 @@
 # Hi, I'm Satyam 👋
 
-I'm a software developer with a strong interest in artificial intelligence, developer tools, and building practical products that solve real problems. I enjoy turning ideas into reliable, scalable software and continuously improving my skills through hands-on projects and experimentation.
+**Senior Data Engineer** focused on building scalable data platforms, modern lakehouse architectures, and AI-ready systems.
 
-## What I’m focused on
-- AI-powered applications
-- Backend development
-- Automation and productivity tools
-- Clean, maintainable software design
+Currently at **BESTSELLER**, working on **AI fashion solutions** and designing **lakehouse architectures on Azure + Databricks**. Previously at **NETS** (via **TCS**), where I worked on large-scale **payments data pipelines** using **Spark, Scala, and Hive**.
 
-## Tech interests
-- Artificial Intelligence
-- Software Engineering
-- Developer Tools
-- APIs and Backend Systems
-- Automation
+I’m especially interested in the intersection of **AI and data engineering**, along with **cloud-native data platforms**, **system design**, and the engineering decisions that sit above the implementation layer — **architecture, trade-offs, reliability, and cost**.
 
-## Goals
-- Build impactful AI-driven products
-- Contribute to meaningful open-source projects
-- Grow as an engineer through continuous learning
+## What I work with
+- Azure
+- Databricks
+- Apache Spark
+- Scala
+- Hive
+- Data Lake / Lakehouse Architecture
+- AI-ready Data Platforms
+- Distributed Data Processing
 
-## Let's connect
-I'm always interested in learning, collaborating, and building meaningful technology.
+## What I care about
+- Designing scalable and reliable data systems
+- Building practical platforms for analytics and AI
+- Making thoughtful architecture decisions
+- Balancing performance, maintainability, and cost
+- Solving problems with a systems-thinking mindset
+
+## Current themes
+- Lakehouse design patterns
+- AI + data engineering workflows
+- Large-scale financial and retail data pipelines
+- Cloud-native platform thinking
+- Reliable, production-grade data architecture
+
+---
+
+> Always thinking a few layers above the code.
