@@ -66,6 +66,3 @@ Large-scale ETL           Payments & financial data at scale
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=6366f1" alt="profile views" />
-</p>
